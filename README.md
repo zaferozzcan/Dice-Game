@@ -5,6 +5,8 @@ When refreshing our web site or hit the roll button then our dice get thrown ran
 player 1 and player 2
 both have their own dice values, and our web site will announce a winner depending on whose dice value was higher.
 
+![](images/diceGame_img.png)
+
 
 Requirements:
 
