@@ -1,5 +1,5 @@
 .container {
-  width: 50%;
+  width: 80%;
   margin: auto;
   text-align: center;
 }
@@ -10,25 +10,37 @@
 
 }
 
+body {
+  background-color: #393E46;
+}
 
-h1 {
-  margin: 30px;
-  font-size: 8rem;
+button {
+  text-align: center;
+  margin-left: 320px;
+  margin-top: 50px;
+  font-family: 'Lobster', cursive;
+  text-shadow: 5px 0 #232931;
+  font-size: 5rem;
+  color: #ffac41;
+  display: block;
+  background-color: #393E46;
 
 }
 
 p {
   font-size: 2rem;
-
-
+  color: #ffac41;
+  font-family: 'Indie Flower', cursive;
 }
 
 img {
-  width: 70%;
+  width: 80%;
 }
 
 footer {
   margin-top: 5%;
+  color: #EEEEEE;
   text-align: center;
+  font-family: 'Indie Flower', cursive;
 
 }
